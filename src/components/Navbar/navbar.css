@@ -1,0 +1,17 @@
+.hideMenu{
+    display: none;
+}
+
+.showMenu{
+    display: block;
+    position: absolute;
+    width: 95%;
+    height: 350px;
+    background-color: white;
+    top:10px;
+    left:10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
